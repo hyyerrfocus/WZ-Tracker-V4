@@ -154,7 +154,7 @@ All data is stored in the browser's `localStorage`:
 
 ## 📝 License
 
-This is an unofficial fan project. World Zero is owned by Red Manta LLC.
+This is an unofficial fan project. World Zero is owned by Twin Atlas.
 
 ## 🤝 Contributing
 
