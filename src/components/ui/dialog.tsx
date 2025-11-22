@@ -1,0 +1,1 @@
+export const Dialog=(p)=>p.open?<div>{p.children}</div>:null;

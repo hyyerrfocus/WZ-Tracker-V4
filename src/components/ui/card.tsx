@@ -1,0 +1,1 @@
+export const Card = (p)=> <div {...p} className={`rounded-xl bg-gray-900 border border-gray-700 ${p.className||''}`}/>;

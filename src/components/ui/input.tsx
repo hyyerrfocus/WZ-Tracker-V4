@@ -1,0 +1,1 @@
+export const Input = (p)=> <input {...p} className={`bg-gray-800 text-white px-3 py-2 rounded ${p.className||''}`}/>;

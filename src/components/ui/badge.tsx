@@ -1,0 +1,1 @@
+export const Badge=(p)=> <span {...p} className={`px-2 py-1 text-xs rounded bg-gray-700 text-white ${p.className||''}`}/>;

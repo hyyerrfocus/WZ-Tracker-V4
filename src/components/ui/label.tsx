@@ -1,0 +1,1 @@
+export const Label = (p)=> <label {...p} className={`text-gray-300 text-sm ${p.className||''}`}/>;

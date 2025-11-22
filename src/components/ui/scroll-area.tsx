@@ -1,0 +1,1 @@
+export const ScrollArea=(p)=> <div className={`overflow-y-auto ${p.className||''}`}>{p.children}</div>;
