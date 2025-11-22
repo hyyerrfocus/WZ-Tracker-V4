@@ -906,7 +906,7 @@ export default function App() {
   </div>
 </div>
 
-/* Towers & Infinite */}
+        {/* Towers & Infinite */}
         <div className="bg-white/5 backdrop-blur-lg rounded-2xl p-4 md:p-6 mb-4 shadow-xl border border-white/10">
           <h2 className="text-xl font-bold text-white mb-4">Towers (15 pts each)</h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 mb-6">
